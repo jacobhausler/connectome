@@ -95,9 +95,10 @@ printf '\n' >&3
 stty "$terminal_state" <&3
 [[ -n $username && -n $password ]] || fail 'Empty input cancelled setup. The profile was not changed.'
 url_encode() {
-  local value=$1 encoded= character index
+  local value=$1 encoded= character index byte
   for ((index=0; index<${#value}; index++)); do
-    printf -v character '%%%02X' "'${value:index:1}"
+    printf -v byte '%d' "'${value:index:1}"
+    printf -v character '%%%02X' "$((byte & 255))"
     encoded=$encoded$character
   done
   REPLY=$encoded

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Connectome"
+  short_description: "Turn database know-how into a shareable skill"
+  default_prompt: "Use $connectome to create or extend an expert skill for my database."

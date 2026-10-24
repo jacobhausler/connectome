@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wide World Importers Expert"
+  short_description: "Retrieve WWI sales and product data with source context"
+  default_prompt: "Use $wide-world-importers-expert to retrieve data from Wide World Importers."

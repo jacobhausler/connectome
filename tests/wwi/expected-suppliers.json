@@ -1,0 +1,170 @@
+[
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 1,
+    "supplier_name": "A Datum Corporation",
+    "merchandise_value_excluding_tax": "218282.40",
+    "invoiced_units": 24528,
+    "distinct_invoice_count": 184
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 2,
+    "supplier_name": "Contoso, Ltd.",
+    "merchandise_value_excluding_tax": "6992.00",
+    "invoiced_units": 437,
+    "distinct_invoice_count": 83
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 4,
+    "supplier_name": "Fabrikam, Inc.",
+    "merchandise_value_excluding_tax": "1170715.00",
+    "invoiced_units": 65378,
+    "distinct_invoice_count": 1258
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 5,
+    "supplier_name": "Graphic Design Institute",
+    "merchandise_value_excluding_tax": "79040.00",
+    "invoiced_units": 6080,
+    "distinct_invoice_count": 856
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 7,
+    "supplier_name": "Litware, Inc.",
+    "merchandise_value_excluding_tax": "2504421.25",
+    "invoiced_units": 147123,
+    "distinct_invoice_count": 1203
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 10,
+    "supplier_name": "Northwind Electric Cars",
+    "merchandise_value_excluding_tax": "335575.00",
+    "invoiced_units": 2592,
+    "distinct_invoice_count": 416
+  },
+  {
+    "month_start": "2016-01-01",
+    "supplier_id": 12,
+    "supplier_name": "The Phone Company",
+    "merchandise_value_excluding_tax": "132680.30",
+    "invoiced_units": 4159,
+    "distinct_invoice_count": 358
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 1,
+    "supplier_name": "A Datum Corporation",
+    "merchandise_value_excluding_tax": "198502.80",
+    "invoiced_units": 22248,
+    "distinct_invoice_count": 179
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 2,
+    "supplier_name": "Contoso, Ltd.",
+    "merchandise_value_excluding_tax": "5504.00",
+    "invoiced_units": 344,
+    "distinct_invoice_count": 61
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 4,
+    "supplier_name": "Fabrikam, Inc.",
+    "merchandise_value_excluding_tax": "991058.00",
+    "invoiced_units": 55282,
+    "distinct_invoice_count": 1092
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 5,
+    "supplier_name": "Graphic Design Institute",
+    "merchandise_value_excluding_tax": "70928.00",
+    "invoiced_units": 5456,
+    "distinct_invoice_count": 757
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 7,
+    "supplier_name": "Litware, Inc.",
+    "merchandise_value_excluding_tax": "2294507.75",
+    "invoiced_units": 127550,
+    "distinct_invoice_count": 1077
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 10,
+    "supplier_name": "Northwind Electric Cars",
+    "merchandise_value_excluding_tax": "346670.00",
+    "invoiced_units": 2521,
+    "distinct_invoice_count": 389
+  },
+  {
+    "month_start": "2016-02-01",
+    "supplier_id": 12,
+    "supplier_name": "The Phone Company",
+    "merchandise_value_excluding_tax": "98446.30",
+    "invoiced_units": 3217,
+    "distinct_invoice_count": 337
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 1,
+    "supplier_name": "A Datum Corporation",
+    "merchandise_value_excluding_tax": "235842.00",
+    "invoiced_units": 26064,
+    "distinct_invoice_count": 207
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 2,
+    "supplier_name": "Contoso, Ltd.",
+    "merchandise_value_excluding_tax": "8864.00",
+    "invoiced_units": 554,
+    "distinct_invoice_count": 92
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 4,
+    "supplier_name": "Fabrikam, Inc.",
+    "merchandise_value_excluding_tax": "1178124.00",
+    "invoiced_units": 66921,
+    "distinct_invoice_count": 1295
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 5,
+    "supplier_name": "Graphic Design Institute",
+    "merchandise_value_excluding_tax": "85462.00",
+    "invoiced_units": 6574,
+    "distinct_invoice_count": 896
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 7,
+    "supplier_name": "Litware, Inc.",
+    "merchandise_value_excluding_tax": "2617486.40",
+    "invoiced_units": 145791,
+    "distinct_invoice_count": 1206
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 10,
+    "supplier_name": "Northwind Electric Cars",
+    "merchandise_value_excluding_tax": "390325.00",
+    "invoiced_units": 2617,
+    "distinct_invoice_count": 412
+  },
+  {
+    "month_start": "2016-03-01",
+    "supplier_id": 12,
+    "supplier_name": "The Phone Company",
+    "merchandise_value_excluding_tax": "129150.60",
+    "invoiced_units": 3887,
+    "distinct_invoice_count": 397
+  }
+]
